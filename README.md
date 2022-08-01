@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/MaxKolbe/Fylo-dark-theme-landing-page)
-- Live Site URL: (https://c1h2i3d4i5.github.io/Fylo-dark-theme-landing-page/)
+- Live Site URL: (https://maxkolbe.github.io/Fylo-dark-theme-landing-page/)
 
 ## My process
 
